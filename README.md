@@ -1,1 +1,1 @@
-# Aquatic_Ecosystem_Maintenance_and_Fish_Feeder_System
+The Aquatic Environmental Monitoring and Fish Feeding System project focuses on creating a comprehensive solution for monitoring temperature and turbidity in aquatic environments. Utilizing an ESP8266, DS18B20 temperature sensor, turbidity sensor, and a servo motor-controlled fish feeder, the system provides real-time data visualization through the Blynk cloud platform.
